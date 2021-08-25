@@ -4,8 +4,8 @@
 # * Time complexity : O(n^2)                                   #
 #                                                              #
 # * Preference matrices are generated randomly                 #
-# * Satisfaction metric is defined based on pref vs assignment #
-# * Calculates average satisfaction over 100 iterations        #
+# * Satisfaction metric is defined based on pref vs assignment  #
+# * Calculates average satisfaction over 10000 iterations      #
 #                                                              #
 # - Python3 implementation, Mishel Paul, 08/25/2021            #
 ################################################################
