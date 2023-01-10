@@ -5,8 +5,8 @@
 
 ### File Information:
  
-decisionTree.v  	// Decision Tree model in SystemVerilog
-params.v		// Parameters defining number of features, tree depth and other info 
-
-decisionTree_tb.sv	// Testbench to verify functionality
-*.txt			// Supporting files for testbench including tree information and golden outputs generated from Python
+decisionTree.v  	// Decision Tree model in SystemVerilog  
+params.v		// Parameters defining number of features, tree depth and other info  
+  
+decisionTree_tb.sv	// Testbench to verify functionality  
+*.txt			// Supporting files for testbench including tree information and golden outputs generated from Python  
